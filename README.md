@@ -1,4 +1,4 @@
-# Google4
+# Google 4
 Summary:
 The data we would use is from a real e-commerce website - Google Merchandise Store. We would want to predict the total revenue (i.e. natural log of the sum of all transactions) a user would bring in in the future on this website. 
 
