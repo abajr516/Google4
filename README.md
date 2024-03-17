@@ -1,4 +1,5 @@
 # Google 4: Making Investment Decisions for the Google Merchandise Store  
+# Anjel Bajracharya, Tanushree Mehta, Sassama Hema, Mia Chang
 
 ## Project Goal:
 The data we would use is from a real e-commerce website - Google Merchandise Store. We would want to predict the total revenue a user would bring in in the future on this website. 
